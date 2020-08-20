@@ -1,0 +1,7 @@
+{
+  "name": "Anti-VPN-Plugin",
+  "author": "L0615T1C5.216AC:9437 [Impact Phd]",
+  "main": "vpn.Main",
+  "description": "Detects and Blocks vpns after eough time",
+  "version": 104
+}
