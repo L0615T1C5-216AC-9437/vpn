@@ -1,4 +1,4 @@
-![Java CI](https://github.com/L0615T1C5-216AC-9437/Auto-Snek/workflows/Java%20CI/badge.svg)
+![Java CI](https://github.com/L0615T1C5-216AC-9437/vpn/workflows/Java%20CI/badge.svg)
 [![Discord](https://img.shields.io/discord/519293558599974912.svg)](http://cn-discord.ddns.net)  
 ### Description
 Flags VPNs and Kicks people using VPNs.
